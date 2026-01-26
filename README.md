@@ -19,7 +19,7 @@
 <strong>Delicate?</strong> No, no, no.<br>
 <strong>Absolutely fantastico?</strong> Finalmente, yes.</p>
 
-<p>Now, the safety ratings—ahhh, relax. We have them. Somewhere. Probably framed. Maybe slightly crooked. Look, nobody ever made great Italian food in a quiet, sterile kitchen. A little steam, a little yelling, maybe a chair that wobbles? That’s ambiance. Builds character. Builds immunity.</p>
+<p>Now, the safety ratings—ahhh, relax. We have them. Somewhere. Probably framed.</p>
 
 <p><strong>Tony’s Italian Grill</strong><br>
 Come for the food.<br>
@@ -30,4 +30,3 @@ Leave full, happy, and asking zero follow-up questions.</p>
 *No mob ties since 1947*
 </footer>
 </body>
-</html>
