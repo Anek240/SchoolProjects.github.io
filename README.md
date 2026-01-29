@@ -1,4 +1,4 @@
-# SchoolProjects.github.io
+# MAIN
 <body>
 <header>
 <h1><pre>  
@@ -28,8 +28,15 @@ Leave full, happy, and asking zero follow-up questions.</p>
 </main>
 <footer>
 *No mob ties since 1947*
-
-Now Hiring!
-<a href="https://anek240.github.io/STAFF/">ARE YOU APPLYING?!?</a>
+   
 </footer>
+
+
+   
+----------NAVIGATIONSES---------- 
+
+<p1> <em> <a href="https://anek240.github.io/SchoolProjects.github.io/">MAIN</a> </em> </p1>
+
+<p2> <em> <a href="https://anek240.github.io/STAFF/">Now Hiring</a> </em> </p2>
+
 </body>
