@@ -28,5 +28,8 @@ Leave full, happy, and asking zero follow-up questions.</p>
 </main>
 <footer>
 *No mob ties since 1947*
+
+Now Hiring!
+<a href="https://anek240.github.io/STAFF/">ARE YOU APPLYING?!?</a>
 </footer>
 </body>
